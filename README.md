@@ -19,7 +19,7 @@ Layout Map:
 
 - Have hello kitty holding a flower bouqet
 - flower on her bow
-- svg image instead of raw css ?
+- ~~svg image instead of raw css ?~~ using webp instead of svg or css (flowers too complex for svg)
 
 #### Heart bubble
 
