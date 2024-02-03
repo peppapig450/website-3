@@ -1,6 +1,6 @@
 # Flower Website Thing for Kat
 
-Website with Flowers and of course Hello Kitty
+Cutesie Website for Kat!
 
 ## Ideas
 
