@@ -12,6 +12,9 @@ Website with Flowers and of course Hello Kitty
 - use a qr code to share the website
 - maybe add little rotating flowers or hearts throughout
 
+Layout Map: 
+![layout](https://github.com/peppapig450/website-3/blob/main/plan-website.png?raw=true)
+
 ### Idea's I probably Cant Implement
 
 - Have hello kitty holding a flower bouqet
