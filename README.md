@@ -27,6 +27,6 @@ Layout Map:
 
 ## Todo
 - [ ]  Get Webp images of the flowers
-  - [ ]  Queen of the Night Tulip
-  - [ ]  Delphinium (pink)
+  - [X]  Queen of the Night Tulip
+  - [ ]  Delphinium (pink) (working on it)
   - [ ]  Orchids
